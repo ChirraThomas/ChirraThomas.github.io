@@ -2,7 +2,6 @@
 layout: default
 ---
 
-text
 
 # Header 1
 
