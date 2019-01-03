@@ -15,6 +15,6 @@ Tramite i pulsanti "Previous" e "Next" sarà possibile scorrere tutte le immagin
 Lo scopo di questo programma è di raccogliere tutti i file png,jpeg e jpg di una path specifica e delle sue sottocartelle, in modo da facilitare il caricamento in una galleria di più immagini presenti in più cartelle annidate.
 
 
-### Large image
+### Anteprima del programma
 
 ![Branching](https://chirrathomas.github.io/images/esempio.png)
