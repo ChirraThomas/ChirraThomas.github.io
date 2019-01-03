@@ -10,9 +10,9 @@ Successivamente tramite il pulsante "Get list your images" verranno caricate tut
 
 Tramite i pulsanti "Previous" e "Next" sarà possibile scorrere tutte le immagini caricate all'interno della galleria.
 
-# Header 1
+# Il mio scopo
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Lo scopo di questo programma è di raccogliere tutte le immagini di una path specifica e delle sue sottocartelle, in modo facilitare il caricamento in una galleria di più immagini presenti in più cartelle annidate.
 
 
 ### Large image
